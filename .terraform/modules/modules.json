@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"network","Source":"./modules/network","Dir":"modules/network"},{"Key":"network.vpc","Source":"registry.terraform.io/terraform-aws-modules/vpc/aws","Version":"3.14.0","Dir":".terraform/modules/network.vpc"},{"Key":"","Source":"","Dir":"."}]}
